@@ -1965,6 +1965,8 @@
 
     sget-boolean p2, Lmiui/os/Build;->IS_INTERNATIONAL_BUILD:Z
 
+    const p2, 0x1
+
     if-eqz p2, :cond_8
 
     sget-boolean p2, Lcom/miui/home/launcher/LauncherAssistantCompat;->CAN_SWITCH_MINUS_SCREEN:Z

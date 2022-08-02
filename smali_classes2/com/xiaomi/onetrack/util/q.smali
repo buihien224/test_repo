@@ -31,13 +31,13 @@
 
 .field private static final n:Ljava/lang/String; = ""
 
-.field private static o:Ljava/lang/reflect/Method; = null
+.field private static o:Ljava/lang/reflect/Method;
 
-.field private static p:Z = false
+.field private static p:Z
 
-.field private static q:Ljava/lang/String; = null
+.field private static q:Ljava/lang/String;
 
-.field private static r:Z = false
+.field private static r:Z
 
 .field private static s:I
 
